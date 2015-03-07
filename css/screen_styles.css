@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/* Global Content Formatting and Styles */
+
+body{color: #1f1f1f; line-height: 1.5em; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 20px;}
+header,article,footer,.feedback_container{max-width: 800px;margin: 0px auto 0px auto; position: relative;}
+h1{font-size: 1.4em; font-weight: normal; margin: 0;}
+h2{font-size: 1.2em; font-weight: normal;  margin: 0;}
+h3{font-size: 1.5em; margin: 0 0 1em 0;}
+p{margin: 0 0 .75em 0;}
+a{color: #0066cc; text-decoration: none;}
+a:hover{color: #009966;}
+
+footer{font-size: .85em; color: #666666; padding: 10px 0px 10px 0px;border-top: 1px solid #cccccc; padding: 10px;}
+footer .sub-links{font-size: .75em;}
+
+article {padding: 10px 10px 10px 10px;}
+article .brief .content {padding: 0px 0px 0px 95px;}
+
+.feedback_container{padding: 10px;}
+
+.brief .content a.itunes-link {text-transform: uppercase; font-size: .6em; font-weight: bold; text-decoration: none; margin: .5em 0 0 0; padding: 4px; border: 1px solid #0066cc; border-radius: 4px; background-color: white; }
+.brief .content a:hover.itunes-link{border-color: #009966; }
+
+.brief {position: relative; min-height: 100px; padding: 30px 0px 30px 0px;border-bottom: 1px solid #cccccc;}
+.brief h3{font-size: 1.1em; margin: 0;}
+.brief p {line-height: 1.2em; font-size: .9em; margin-bottom: .5em;}
+.brief .content{float: left;}
+.brief .content .device-support{color: #009966; font-size: .6em;}
+.brief .float-fix {clear: both;}
+
+.brief .app_icon {position: absolute; top: 30px; left: 0px; display: block; width: 76px; height: 76px;  background-repeat: no-repeat; border: 1px solid #ededed; border-radius: 18px;}
+.brief .flying_piggy {background-image: url(../images/icon_flying_piggy.jpg); }
+.brief .hero_fighter {background-image: url(../images/icon_hero_fighter.jpg); }
+.brief .kana_quiz {background-image: url(../images/icon_kana_quiz.jpg); }
+.brief .getweb {background-image: url(../images/icon_getweb.jpg);}
+.brief .droptime {background-image: url(../images/icon_droptime.jpg);}
+.brief .rhyme {background-image: url(../images/icon_rhyme.jpg);}
+.brief .guitarnotes {background-image: url(../images/icon_guitarnotes.jpg);}
+.brief .lifelogger {background-image: url(../images/icon_lifelogger.jpg);}
+.brief .aqi {background-image: url(../images/icon_aqi.jpg);}
+.brief .zhihudanbao {background-image: url(../images/icon_zhihudanbao.jpg);}
+.brief .ya-yun {background-image: url(../images/icon_ya-yun.jpg);}
+.brief .ninety-minute {background-image: url(../images/icon_90-minute.jpg);}

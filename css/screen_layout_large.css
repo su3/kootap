@@ -1,0 +1,7 @@
+@charset "UTF-8";
+body {margin: 0; padding: 0; font-size: 20px;}
+header a.logo{display: block; position: absolute; background-position: 0px 0px; background-repeat: no-repeat;}
+header h1{position: absolute; left: 315px; top: 75px;}
+
+header{height: 140px;}
+header a.logo{width:264px; height: 66px; top: 57px; left: 10px; background-image: url(../images/logo_large.png);}

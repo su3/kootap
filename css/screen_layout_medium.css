@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+header{height: 90px;}
+header a.logo{width:220px; height: 66px; top: 37px; left: 10px; background-image: url(../images/logo_large.png); background-size: 220px auto;}
+header h1{position: absolute; left: 275px; top: 45px; font-size: 1.2em;}
+
+
+
+
