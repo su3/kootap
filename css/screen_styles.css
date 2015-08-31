@@ -10,6 +10,7 @@ h3{font-size: 1.5em; margin: 0 0 1em 0;}
 p{margin: 0 0 .75em 0;}
 a{color: #0066cc; text-decoration: none;}
 a:hover{color: #009966;}
+i{color: red;}
 
 footer{font-size: .85em; color: #666666; padding: 10px 0px 10px 0px;border-top: 1px solid #cccccc; padding: 10px;}
 footer .sub-links{font-size: .75em;}
