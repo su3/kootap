@@ -1,0 +1,54 @@
+
+body{
+  background-color: #ededed;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, footer{
+  max-width: 940px;
+  margin: 0 auto;
+  display: block;;
+}
+
+.box{
+  width: 98vw;
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: white;
+  display: flex;
+ align-items: center;
+ padding: 30px 70px;
+}
+
+.icon{
+  border-radius: 100px;
+}
+
+.icon, .qrcode, content{
+  float: left;
+}
+
+
+.content{
+  padding-left: 40px;
+  border-left: #d0d0d0 solid 1px;
+  margin-left: 30px;
+}
+
+h2{
+  color: #2ba245;
+  font-size: 40px;
+  padding: 0;
+  margin: 0;
+}
+
+.desc{
+  color: #767676;
+  font-size: 25px;
+}
+
+.qrcode{
+  width: 142px;
+  height: 162px;
+  margin-left: 20px;
+}

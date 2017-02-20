@@ -19,6 +19,7 @@ article {padding: 10px 10px 10px 10px;}
 article .brief .content {padding: 0px 0px 0px 95px;}
 
 .feedback_container{padding: 10px;}
+.wxapp{max-width: 800px; margin: 0 auto; font-size: 1em;}
 
 .brief .content a.itunes-link {text-transform: uppercase; font-size: .6em; font-weight: bold; text-decoration: none; margin: .5em 0 0 0; padding: 4px; border: 1px solid #0066cc; border-radius: 4px; background-color: white; }
 .brief .content a:hover.itunes-link{border-color: #009966; }
@@ -43,3 +44,4 @@ article .brief .content {padding: 0px 0px 0px 95px;}
 .brief .zhihudanbao {background-image: url(../images/icon_zhihudanbao.jpg);}
 .brief .ya-yun {background-image: url(../images/icon_ya-yun.jpg);}
 .brief .ninety-minute {background-image: url(../images/icon_90-minute.jpg);}
+.brief .gupiaoji {background-image: url(../images/icon_gupiaoji.png);}
