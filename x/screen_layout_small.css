@@ -1,0 +1,22 @@
+.content{
+  padding: 0;
+  margin: 0;
+  display: block;
+  clear: both;
+  float: none;
+}
+
+.icon{
+  clear: both;
+  float: none;
+  display: none;
+}
+
+.icon{
+  clear: both;
+  float: none;;
+}
+
+.box{
+  padding: 20px;
+}

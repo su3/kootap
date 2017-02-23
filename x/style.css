@@ -7,7 +7,9 @@ body{
 h1, footer{
   max-width: 940px;
   margin: 0 auto;
-  display: block;;
+  display: block;
+  text-align: center;
+  padding-top: 30px;
 }
 
 .box{
@@ -49,6 +51,6 @@ h2{
 
 .qrcode{
   width: 142px;
-  height: 162px;
+  height: auto;
   margin-left: 20px;
 }
