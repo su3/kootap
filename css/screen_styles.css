@@ -31,21 +31,6 @@ article .brief .content {padding: 0px 0px 0px 95px;}
 .brief .content .device-support{color: #009966; font-size: .6em;}
 .brief .float-fix {clear: both;}
 
-.brief .app_icon {position: absolute; top: 30px; left: 0px; display: block; width: 76px; height: 76px;  background-repeat: no-repeat; border: 1px solid #ededed; border-radius: 18px;}
-.brief .flying_piggy {background-image: url(../images/icon_flying_piggy.jpg); }
-.brief .hero_fighter {background-image: url(../images/icon_hero_fighter.jpg); }
-.brief .kana_quiz {background-image: url(../images/icon_kana_quiz.jpg); }
-.brief .getweb {background-image: url(../images/icon_getweb.jpg);}
-.brief .droptime {background-image: url(../images/icon_droptime.jpg);}
-.brief .rhyme {background-image: url(../images/icon_rhyme.jpg);}
-.brief .guitarnotes {background-image: url(../images/icon_guitarnotes.jpg);}
-.brief .lifelogger {background-image: url(../images/icon_lifelogger.jpg);}
-.brief .aqi {background-image: url(../images/icon_aqi.jpg);}
-.brief .zhihudanbao {background-image: url(../images/icon_zhihudanbao.jpg);}
-.brief .ya-yun {background-image: url(../images/icon_ya-yun.png);}
-.brief .ninety-minute {background-image: url(../images/icon_90-minute.jpg);}
-.brief .gupiaoji {background-image: url(../images/icon_gupiaoji.png);}
-.brief .path_tree {background-image: url(../images/icon_path_tree.png); border: 0;}
-.brief .headlines {background-image: url(../images/icon_headlines.png); border: 0;}
-.brief .solo_monster {background-image: url(../images/icon_solo_monster.png); border: 0;}
-.brief .ducks_trip {background-image: url(../images/icon_ducks_trip.png); border: 0;}
+.brief .app_icon {position: absolute; top: 30px; left: 0px; display: block; width: 76px; height: 76px;  background-repeat: no-repeat;  border: 0; border-radius: 18px; overflow:hidden;}
+.brief .border {border: 1px solid #ededed;}
+.brief .app_icon img{width: 100%; height: 100%;}
